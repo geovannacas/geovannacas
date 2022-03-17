@@ -13,5 +13,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=geovannacas&show_icons=true&locale=en" alt="geovannacas" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=geovannacas&show_icons=true&locale=en" alt="geovannacas" /></p>
 
