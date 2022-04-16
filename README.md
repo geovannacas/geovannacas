@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Geovanna Cunha</h1>
-<h3 align="center">A Computer Science student from Brazil</h3>
+<h3 align="center">Student | Back-end development</h3>
 
 - I’m currently learning **C# and .NET**
 - **Portuguese *(Native)* and English *(Advanced)***
