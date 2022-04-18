@@ -2,7 +2,7 @@
 <h3 align="center">Student | Back-end development</h3>
 
 - I’m currently learning **C# and .NET**
-- **Portuguese *(Native)* and English *(Advanced)***
+- **Portuguese *(Native)* and English *(Fluent)***
 
 <p align="left">
 </p>
