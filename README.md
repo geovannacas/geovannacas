@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Geovanna Cunha</h1>
-<h3 align="center">Student | Back-end development</h3>
+<h3 align="center">Student | Full Stack development</h3>
 
-- I’m currently learning **C# and .NET**
+- I’m currently learning **C#, .NET and JavaScript**
 - **Portuguese *(Native)* and English *(Fluent)***
 
 <p align="left">
