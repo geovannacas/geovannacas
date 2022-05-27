@@ -14,7 +14,7 @@
 <h3> My GitHub Stats</h3>
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannacas&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovannacas&theme=radical"/>
 </a>
 
 
