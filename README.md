@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Geovanna Cunha</h1>
 
-- I’m currently learning **C# and React**
+- I’m currently learning **SQL**
 - **Portuguese *(Native)* and English *(Fluent)***
 
 ## Socials:
