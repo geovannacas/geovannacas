@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Geovanna Cunha</h1>
 
-- I’m currently learning **SQL**
+- I’m currently learning **SQL and Javascript**
 - **Portuguese *(Native)* and English *(Fluent)***
 
 ## Socials:
