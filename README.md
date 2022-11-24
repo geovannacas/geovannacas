@@ -1,9 +1,9 @@
-![Header](https://github.com/geovannacas/geovannacas/blob/main/Profile.gif)
+![Header](https://github.com/geovannacas/geovannacas/blob/main/Header.gif)
 
 - 🎓 I´m a Computer Science undergraduate student at [Federal University of Goiás (UFG)](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 - 🌱  Currently learning **C**
 
-#### Contact me:
+#### Contact me:r
 [![Gmai](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geovannacunha31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geovanna-cunha) 
 
