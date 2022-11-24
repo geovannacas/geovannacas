@@ -1,3 +1,4 @@
+![Header](https://github.com/geovannacas/geovannacas/blob/main/Profile.gif)
 
 - 🎓 I´m a Computer Science undergraduate student at [Federal University of Goiás (UFG)](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 - 🌱  Currently learning **C**
