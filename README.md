@@ -1,7 +1,7 @@
 ![Header](https://github.com/geovannacas/geovannacas/blob/main/Header.gif)
 
 - 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG)](https://inf.ufg.br/p/30138-ciencia-da-computacao)
-- 🌱  Currently learning **C**
+- 🌱  Currently learning **Python**
 
 #### Contact me:
 [![GmaiL](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:geovannacunha31@gmail.com)
