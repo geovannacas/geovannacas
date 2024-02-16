@@ -11,6 +11,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 #### Technologies:
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
