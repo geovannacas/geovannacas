@@ -1,12 +1,14 @@
 ![Header](https://github.com/geovannacas/geovannacas/blob/main/Header.gif)
 
-🎓 Computer Science undergraduate at Federal University of Goiás (UFG) — 2022–2026
+🎓 Computer Science undergraduate at Federal University of Goiás - UFG (2022–2026)
 
 💼 Software Engineering Intern at BigDataCorp
 
-🧠 Researcher in assistive technologies (vision + haptics) at UFG
+🧠 Research at UFG:
+* Machine Learning for **Parkinson's Disease** (Diagnosis and Monitoring).
+* Assistive Technologies for **Visual Impairment** (Computer Vision + Haptics Devices).
 
-🛠️ Backend Developer with experience in C#, .NET Core, Python, PostgreSQL, and AWS
+🛠️ Backend Developer with experience in C#, .NET Core, Python, MongoDB, PostgreSQL and AWS
 
 🌱 Currently diving deeper into Python and distributed systems
 
