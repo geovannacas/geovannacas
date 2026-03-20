@@ -10,7 +10,7 @@
 
 🛠️ Backend Developer with experience in C#, .NET Core, Python, MongoDB, PostgreSQL and AWS
 
-🌱 Currently diving deeper into Python and distributed systems
+🌱 Currently diving deeper into Python and Machine Learning
 
 💡 Passionate about building impactful, scalable, and accessible solutions
 
